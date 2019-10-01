@@ -1,4 +1,4 @@
-# MetodosDeOrdena-o
+# MetodosDeOrdenaço
 Trabalho Analise de Algoritmos
 
 
